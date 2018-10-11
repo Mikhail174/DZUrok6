@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZUrok6", "DZUrok6\DZUrok6.csproj", "{644E912C-BDA9-49EE-BFEC-D4CCCA14FCBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZUrok6Zad2", "DZUrok6Zad2\DZUrok6Zad2.csproj", "{99AC0588-48FF-4EE4-95FC-0037C59F0170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644E912C-BDA9-49EE-BFEC-D4CCCA14FCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644E912C-BDA9-49EE-BFEC-D4CCCA14FCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644E912C-BDA9-49EE-BFEC-D4CCCA14FCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644E912C-BDA9-49EE-BFEC-D4CCCA14FCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AC0588-48FF-4EE4-95FC-0037C59F0170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AC0588-48FF-4EE4-95FC-0037C59F0170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AC0588-48FF-4EE4-95FC-0037C59F0170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AC0588-48FF-4EE4-95FC-0037C59F0170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD571433-FB3A-4606-833E-BDE216EB369E}
+	EndGlobalSection
+EndGlobal
